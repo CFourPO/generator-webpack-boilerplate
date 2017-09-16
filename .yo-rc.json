@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Chris Pomerville",
+      "authorEmail": "CFourPO@users.noreply.github.com",
+      "authorUrl": "chrispomerville.com"
+    }
+  }
+}
