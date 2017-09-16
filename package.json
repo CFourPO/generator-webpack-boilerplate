@@ -1,6 +1,6 @@
 {
   "name": "generator-webpack-boilerplate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Yeoman Generator to scaffold out a webpack project for ease of use in disposable and long-term projects",
   "homepage": "https://github.com/cfourpo/generator-webpack-boilerplate",
   "author": {
